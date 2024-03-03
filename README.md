@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=&fontSize=15&fontAlign=85&fontAlignY=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=JoEun%20Haru~👋&fontColor=cccccc&fontSize=15&fontAlign=12&fontAlignY=85" />
 </div>
 
 <!--   <h2 align="center">Hi there 👋</h2>   -->
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -55,5 +54,5 @@ Here are some ideas to get you started:
 </p>
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=JoEun_Haru's_GitHub&fontSize=15&fontAlign=85&fontAlignY=10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=JoEun's_GitHub&fontSize=15&fontColor=555555&fontAlign=85&fontAlignY=10" />
 </div>
